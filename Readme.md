@@ -14,7 +14,7 @@ This repository contains a robust Computer Vision pipeline designed to detect, s
 The system generates an `annotated_evaluation.jpg` file to provide visual proof of the detection logic.
 
 ### **Detection Map**
-![Annotated Evaluation](annotated_evaluation.jpg)
+![Annotated Evaluation](/Assets/annotated_evaluation.jpg)
 
 * **Green Boxes:** Successfully detected standard slips.
 * **Yellow Boxes:** Slips identified and separated via the Recursive Sobel Splitting module.
